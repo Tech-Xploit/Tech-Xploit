@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Cybersecurity Expert**, **Ethical Hacker**, and **Tech Enthusiast** from India. I am passionate about helping individuals and organizations secure their digital systems. I focus on developing tools, conducting penetration testing, and creating cybersecurity content.
+I'm a **Cybersecurity Bigginer**, **Ethical Hacker**, and **Tech Enthusiast** from India. I am passionate about helping individuals and organizations secure their digital systems. I focus on developing tools, conducting penetration testing, and creating cybersecurity content.
 
 - Currently developing **Termux tools** for the cybersecurity community.
 - Aspiring to become a **top cybersecurity content creator**, sharing expert knowledge on ethical hacking, security, and more.
